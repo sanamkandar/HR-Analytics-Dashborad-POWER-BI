@@ -7,7 +7,7 @@ What I 've done:-
 1. Data load into data view, transformation & manipulation through PowerQuery editior and DAX.
 2. Created required measures.
 3. Presence Overview Dashboard - high level metrics (presence, sick, WFH, etc), trend lines over 3 months of HR data, attendance chart, employee presence percentage %, preference of working in weekdays.
-4. Muster Roll Dashboard - a single view which shows all details of employee by selecting their Employee Code.Description- HR manager want to take some data-driven decision regarding working preference of employee post COVID, sick leave % to understand behind that and take pre-emptive decision. What I 've done:- 1. Data load into data view, transformation & manipulation through PowerQuery editior and DAX. 2. Created required measures. 3. Presence Overview Dashboard - high level metrics (presence, sick, WFH, etc), trend lines over 3 months of HR data, attendance chart, employee presence percentage %, preference of working in weekdays. 4. Muster Roll Dashboard - a single view which shows all details of employee by selecting their Employee Code.
+4. Muster Roll Dashboard - a single view which shows all details of employee by selecting their Employee Code.
 
 ## Screenshots
 
